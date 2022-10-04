@@ -2,5 +2,5 @@ Flask==1.1.1
 Flask_Cors==3.0.10
 numpy==1.19.5
 tensorflow==2.8.0
-tensorflow_text==2.7.3
+tensorflow_text==2.8.1
 gunicorn==19.9.0
